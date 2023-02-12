@@ -3,8 +3,8 @@
 
 title Hospital Hub
 
-   name                                       id
-1 Natnael Yohannes                       UGR/4167/13
+   name                                       id               Github Account
+1 Natnael Yohannes                       UGR/4167/13           NatnaelCrypto
 2 yared Belete                           UGR/9874/13
 3 Yohannes Habtamu                       UGR/3616/13
 4 Melkishi Tesfaye                       UGR/0078/13
