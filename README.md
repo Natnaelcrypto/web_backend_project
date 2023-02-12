@@ -9,3 +9,15 @@ title Hospital Hub
 3 Yohannes Habtamu                       UGR/3616/13
 4 Melkishi Tesfaye                       UGR/0078/13
 5 Hiwot Beyene Asrie                     UGR/3774/13
+
+
+Why we chose MongoDB?
+
+The main reason is that the service of our website is providing information for our customers. So going for a documented database such as MongoDB was a better choice.
+Other reasons are a need for:
+•	Ease of scaling
+•	Higher data availability
+•	Deep query ability
+•	Fast, automatic and instant data recovery
+
+
